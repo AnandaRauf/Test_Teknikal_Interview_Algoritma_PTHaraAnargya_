@@ -1,0 +1,1 @@
+SELECT count(username,asosiasi_name) AS "Jumlah User yang bergabung pada Asosiasi:" FROM tb_user_asosiasi;

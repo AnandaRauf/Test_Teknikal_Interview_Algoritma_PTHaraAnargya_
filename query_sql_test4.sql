@@ -1,0 +1,1 @@
+SELECT DISTINCT nomor_user,username,asosiasi_name FROM tb_user_asosiasi;
