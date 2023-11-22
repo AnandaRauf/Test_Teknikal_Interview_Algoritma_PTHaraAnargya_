@@ -21,5 +21,5 @@ Membutuhkan Software Engineer/Software Developer?
 
 Hubungi saya:
 1.[Linkendin](https://www.linkedin.com/in/ananda-rauf-maududi-)
-2.[Instagram](https://wwww.instagram.com/anandaraufm00)
+2.[Instagram](https://www.instagram.com/anandaraufm00)
 3.[Chat Whatsapp](https://wa.me/6285692060498)
